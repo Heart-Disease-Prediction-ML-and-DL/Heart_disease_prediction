@@ -38,7 +38,7 @@ The main objective of this project is to explore how machine learning and deep l
 
 ## 👨‍💻 Author
 
-**Muhammad Naeem**
+**Muhammad Naeem and salman khan @g7isa**
 BS Computer Science
 University of Swat, Pakistan
 
